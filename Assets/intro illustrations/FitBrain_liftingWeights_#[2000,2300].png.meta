@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: b8876fcb1352e486c8eb344921781af9
+timeCreated: 1525618606
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FitBrain_liftingWeights_#[2000,2300]_0
+    21300002: FitBrain_liftingWeights_#[2000,2300]_1
+    21300004: FitBrain_liftingWeights_#[2000,2300]_2
+    21300006: FitBrain_liftingWeights_#[2000,2300]_3
+    21300008: FitBrain_liftingWeights_#[2000,2300]_4
+    21300010: FitBrain_liftingWeights_#[2000,2300]_5
+    21300012: FitBrain_liftingWeights_#[2000,2300]_6
+    21300014: FitBrain_liftingWeights_#[2000,2300]_7
+    21300016: FitBrain_liftingWeights_#[2000,2300]_8
+    21300018: FitBrain_liftingWeights_#[2000,2300]_9
+    21300020: FitBrain_liftingWeights_#[2000,2300]_10
+    21300022: FitBrain_liftingWeights_#[2000,2300]_11
+    21300024: FitBrain_liftingWeights_#[2000,2300]_12
+    21300026: FitBrain_liftingWeights_#[2000,2300]_13
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FitBrain_liftingWeights_#[2000,2300]_0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 9252
+        width: 1633
+        height: 2161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FitBrain_liftingWeights_#[2000,2300]_1
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 9252
+        width: 1667
+        height: 2150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FitBrain_liftingWeights_#[2000,2300]_2
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 9252
+        width: 1739
+        height: 2138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FitBrain_liftingWeights_#[2000,2300]_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 6954
+        width: 1808
+        height: 2128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FitBrain_liftingWeights_#[2000,2300]_4
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 6954
+        width: 1790
+        height: 2117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FitBrain_liftingWeights_#[2000,2300]_5
+      rect:
+        serializedVersion: 2
+        x: 4066
+        y: 6955
+        width: 1774
+        height: 2105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FitBrain_liftingWeights_#[2000,2300]_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 4652
+        width: 1757
+        height: 2100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FitBrain_liftingWeights_#[2000,2300]_7
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 4652
+        width: 1761
+        height: 2106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FitBrain_liftingWeights_#[2000,2300]_8
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 4652
+        width: 1762
+        height: 2117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FitBrain_liftingWeights_#[2000,2300]_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2356
+        width: 1770
+        height: 2122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FitBrain_liftingWeights_#[2000,2300]_10
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 2356
+        width: 1777
+        height: 2128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FitBrain_liftingWeights_#[2000,2300]_11
+      rect:
+        serializedVersion: 2
+        x: 4117
+        y: 2356
+        width: 1717
+        height: 2139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FitBrain_liftingWeights_#[2000,2300]_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 53
+        width: 1659
+        height: 2151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: FitBrain_liftingWeights_#[2000,2300]_13
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 53
+        width: 1633
+        height: 2157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
